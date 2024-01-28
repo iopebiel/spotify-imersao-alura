@@ -1,0 +1,8 @@
+:root { /*Estilização raiz*/
+    /*FONT*/
+    --font-dm-sans: "DM Sans", sans-serif; /*caso necessário alteração da fonte do projeto apenas uma linha mudará a todas.*/
+
+    /*COLOR*/
+    --bg-icon: #131313;
+    --bg-arrow-color: rgba(0,0,0,7);
+}
